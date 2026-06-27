@@ -1,0 +1,38 @@
+{
+  "creators": [
+    {
+      "name": "Chen, Shih-Chung",
+      "affiliation": "Department of Electrical Engineering, Southern Taiwan University of Science and Technology"
+    },
+    {
+      "name": "Wahyono, Irawan Dwi",
+      "affiliation": "Department of Electrical Engineering, Southern Taiwan University of Science and Technology"
+    }
+  ],
+  "title": "An Adaptive Transformer-Based Model with Entropy-Driven Knowledge Distillation for Single-Channel EEG REM Sleep Detection",
+  "version": "v1.0.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "description": "This software repository provides code and supporting materials for an entropy-driven adaptive knowledge distillation framework integrated with a lightweight Transformer for REM sleep detection from single-channel EEG signals. The release includes implementation components for EEG preprocessing, model training, adaptive temperature scaling, entropy-based distillation weighting, evaluation, and figure generation used in the related manuscript submitted to Scientific Reports.",
+  "keywords": [
+    "REM sleep",
+    "electroencephalogram",
+    "EEG",
+    "knowledge distillation",
+    "Transformer",
+    "sleep staging",
+    "single-channel EEG",
+    "entropy",
+    "deep learning"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/iwan2712/adaptive-transformer-rem-kd",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "This release does not redistribute the original Sleep-EDF, ISRUC-Sleep, or MASS datasets. Users should obtain datasets from their original providers and follow the access conditions of each dataset."
+}
