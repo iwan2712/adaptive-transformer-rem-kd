@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file and the Zenodo DOI generated for the GitHub release."
+title: "An Adaptive Transformer-Based Model with Entropy-Driven Knowledge Distillation for Single-Channel EEG REM Sleep Detection"
+version: "v1.0.0"
+type: software
+authors:
+  - family-names: "Chen"
+    given-names: "Shih-Chung"
+    affiliation: "Department of Electrical Engineering, Southern Taiwan University of Science and Technology"
+  - family-names: "Wahyono"
+    given-names: "Irawan Dwi"
+    affiliation: "Department of Electrical Engineering, Southern Taiwan University of Science and Technology"
+repository-code: "https://github.com/iwan2712/adaptive-transformer-rem-kd"
+abstract: "Software implementation of an entropy-driven adaptive knowledge distillation framework integrated with a lightweight Transformer for single-channel EEG REM sleep detection."
+keywords:
+  - REM sleep
+  - EEG
+  - knowledge distillation
+  - Transformer
+  - sleep staging
+  - single-channel EEG
+license: MIT
